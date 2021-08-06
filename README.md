@@ -1,2 +1,2 @@
 # css-training
-Training for CSS
+Practicing CSS
